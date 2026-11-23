@@ -3,6 +3,8 @@
 Applied Chemistry background, exploring how code can make lab work, data analysis, and everyday study a little easier.  
 应用化学专业出身，非科班，平时喜欢写点小工具、折腾数据分析和 AI，解决科研与日常里遇到的实际问题。
 
+🌐 **Homepage / 导航**：[sierror.top](https://sierror.top) · 📄 **CV / 简历**：[cv.sierror.top](https://cv.sierror.top)
+
 ---
 
 #### 🧪 Things I've Built
